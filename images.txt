@@ -1,1 +1,1 @@
-gogs/gogs:0.11.91
+sonatype/nexus3
