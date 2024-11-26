@@ -1,1 +1,1 @@
-emqx-enterprise:5.5.0
+emqx/emqx-enterprise:5.5.0
