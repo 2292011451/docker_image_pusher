@@ -1,1 +1,1 @@
-portainer/portainer
+emqx/neuron:2.9.4
