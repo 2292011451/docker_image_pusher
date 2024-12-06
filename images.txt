@@ -1,1 +1,1 @@
-emqx/neuronex:3.3.2-slim
+emqx/neuron-en:2.6.9
