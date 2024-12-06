@@ -1,1 +1,1 @@
-eclipse/kura:latest
+emqx/neuronex:3.3.2-slim
