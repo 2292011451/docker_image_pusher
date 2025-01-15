@@ -1,1 +1,1 @@
-appleboy/drone-ssh:1.6.8-linux-amd64
+emqx/emqx:5.8.4
