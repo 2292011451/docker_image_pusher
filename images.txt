@@ -1,1 +1,1 @@
-dyrnq/open-webui:main
+node:22.14.0
