@@ -1,4 +1,1 @@
 jitsi/jvb:stable-4857
-jitsi/jicofo:stable-4857
-jitsi/prosody:stable-4857
-jitsi/web:stable-4857
